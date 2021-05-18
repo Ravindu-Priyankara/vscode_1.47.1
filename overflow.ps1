@@ -5,7 +5,7 @@
 #[+]. Tested Version:1.47.1
 #[+]. Vendor:Microsoft
 #[+]. Software Download Link:https://code.visualstudio.com/updates/
-#[+]. Script Download Link:
+#[+]. Script Download Link: https://github.com/Ravindu-Priyankara/vscode_1.47.1
 #[+]. E-Mail: h.h.a.r.p.premachandra@gmail.com
 
 Write-Host "
